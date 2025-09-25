@@ -31,3 +31,6 @@ mvnw
 mvnw.cmd
 .mvn
 /logs/
+
+### Commitlint Config ###
+node_modules
